@@ -10,7 +10,7 @@ Created by: Kyle Simmons
 Github: https://github.com/kyle-c-simmons/usermanager
 
 
-![alt userrmanager-image](https://github.com/kyle-c-simmons)
+![alt userrmanager-image](https://github.com/kyle-c-simmons/usermanager/blob/master/usermanager.png)
 
 NAME:
     Usermanager
