@@ -35,7 +35,7 @@ To execute the script run ./usermanager.sh
 
 ## Authors
 
-* **Kyle Simmons** - *Github - kyle-c-simmons* - [Github](https://github.com/kyle-c-simmons/)
+* **Kyle Simmons** - [Github - kyle-c-simmons](https://github.com/kyle-c-simmons/)
 
 
 ## License
