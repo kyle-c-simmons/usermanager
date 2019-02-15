@@ -32,5 +32,5 @@ COMMANDS:
     GROUPS - DELETE GROUP: Delete a group from the system.
     
     DISPLAY - USERS: Displays a specific user or all users.
-    DISPLAY - GROUPS: Displays a specific group or al groups.
+    DISPLAY - GROUPS: Displays a specific group or all groups.
     
