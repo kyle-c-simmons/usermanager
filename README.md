@@ -23,7 +23,7 @@ Usermanager - User and account management system. Create, delete, manage groups 
 ### Prerequisites
 
 Requirements:
-* Linux
+* Linux or macOS
 
 ## Deployment
 
