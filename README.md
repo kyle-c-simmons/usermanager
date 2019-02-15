@@ -1,27 +1,17 @@
- _______                          _______                                          
+_______                          _______                                          
     |   |   |.-----..-----..----.    |   |   |.---.-..-----..---.-..-----..-----..----.
     |   |   ||__ --||  -__||   _|    |       ||  _  ||     ||  _  ||  _  ||  -__||   _|
     |_______||_____||_____||__|      |__|_|__||___._||__|__||___._||___  ||_____||__|  
                                                                    |_____|
-                                                                   
-User and Accont management system. Create, delete, manage groups and users in a easy way.
 
-Created by: Kyle Simmons
-
-Github: https://github.com/kyle-c-simmons/usermanager
-
+Usermanager - User and account management system. Create, delete, manage groups and users in a easy way.
 
 ![alt userrmanager-image](https://github.com/kyle-c-simmons/usermanager/blob/master/usermanager.png)
 
-NAME:
-    Usermanager
-
-DESCRIPTION:
-    Usermanager - User and account management system. Create, delete,
-    manage groups and users in a easy way.
-
-COMMANDS:  
-    
+## Getting Started
+ 
+ Commands:
+ 
     USERS - ADD USER: Adds a new user with a shell and home directory.
     USERS - UPDATE USER: Update a users password, group, password expiry,
     new home directory and add a comment.
@@ -33,4 +23,25 @@ COMMANDS:
     
     DISPLAY - USERS: Displays a specific user or all users.
     DISPLAY - GROUPS: Displays a specific group or all groups.
-    
+
+### Prerequisites
+
+Requirements:
+* Linux
+
+## Deployment
+
+To execute the script run ./usermanager.sh
+
+## Built With
+
+* #!/bin/bash - bash scripting
+
+## Authors
+
+* **Kyle Simmons** - *Github - kyle-c-simmons* - [Github](https://github.com/kyle-c-simmons/)
+
+
+## License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details                  
